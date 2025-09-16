@@ -1,8 +1,0 @@
-README.md
-pyproject.toml
-src/hotelpoc.egg-info/PKG-INFO
-src/hotelpoc.egg-info/SOURCES.txt
-src/hotelpoc.egg-info/dependency_links.txt
-src/hotelpoc.egg-info/requires.txt
-src/hotelpoc.egg-info/top_level.txt
-src/hotelpoc/api/amadeus.py
